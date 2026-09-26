@@ -1,0 +1,6 @@
+{
+  "name": "BuildSkillForge",
+  "description": "Connecting college students with local businesses for real-world digital and technology projects. Build Skills. Build Projects. Build Your Future.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
